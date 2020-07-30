@@ -1,6 +1,5 @@
 ![CircleCI](https://img.shields.io/circleci/build/gh/somitrasr/ML-Project-Kubernetes-Microservice)
 
-
 ## Project Overview
 
 In this project, we will apply the Machine Learning Microservice API skills. 
@@ -64,7 +63,6 @@ It also includes the following files:
 - `run_docker.sh`, to launch a Docker container
 - `run_kubernetes.sh`, to deploy containers on a Kubernetes cluster
 - `upload_docker.sh`, to upload a Docker image to Docker Hub
-- `.gitignore`, to list files that Git should ignore
 
 ---
 
