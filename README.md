@@ -1,3 +1,4 @@
+![CircleCI](https://img.shields.io/circleci/build/gh/somitrasr/ML-Project-Kubernetes-Microservice)
 
 
 ## Project Overview
