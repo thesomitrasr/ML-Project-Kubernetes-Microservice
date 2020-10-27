@@ -4,7 +4,7 @@
 
 In this project, we will apply the Machine Learning Microservice API skills. 
 
-This udacity project containerizes a machine learning Python flask app using Docker and deploys it on a Kubernetes cluster.
+This  project containerizes a machine learning Python flask app using Docker and deploys it on a Kubernetes cluster.
 The app mainly predicts housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on. The data was initially taken from this site [Kaggle](https://www.kaggle.com/c/boston-housing).
 
 ---
